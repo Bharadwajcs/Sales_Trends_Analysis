@@ -2,40 +2,46 @@
 
 # 📊 Sales Data Analysis
 
-Analyze **51k+ sales records** with Python to uncover insights on sales, profit, discounts, and shipping. Includes **Linear Regression** for trend prediction.
+Analyze **51k+ sales records** from the [Global Superstore Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset) to uncover insights on sales, profit, discounts, and shipping. The project also includes a **Linear Regression model** to predict sales trends.
 
 ---
 
-## 📂 Project Files
+## 📂 Files
 
-* `sales_data.csv` → Sales dataset
-* `task2.ipynb` → Jupyter Notebook with analysis, visuals & regression
-
----
-
-## ⚙️ Tech Stack
-
-* Python 🐍
-* pandas & numpy 🗃️
-* matplotlib & seaborn 📊
-* scikit-learn 🤖
-* Jupyter Notebook 📒
+* **sales\_data.csv** → Sales dataset
+* **task2.ipynb** → Notebook with analysis, visualizations & regression
 
 ---
 
-## 🔍 Key Features
+## ⚙️ Tools & Libraries
 
-* Data cleaning & preparation
+* 🐍 Python
+* 🗃️ pandas, numpy
+* 📊 matplotlib, seaborn
+* 🤖 scikit-learn
+* 📒 Jupyter Notebook
+
+---
+
+## 🔍 Key Highlights
+
+* Data cleaning & preprocessing
 * Sales, profit & discount analysis
-* Visual insights by region, category & customer
-* 📈 Linear Regression model for prediction
+* Regional & category performance insights
+* 📈 Linear Regression for predicting sales trends
 
 ---
 
 ## ✨ Insights
 
-* Which categories and regions drive the most sales
-* How discounts affect profitability
-* Predictive trends using regression
+* Discounts don’t always increase profit 📉
+* Technology category shows strong sales growth 💻
+* Certain regions drive majority of revenue 🌍
 
 ---
+
+## 📜 Dataset
+
+This project uses the **[Global Superstore Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)** from Kaggle.
+
+--
