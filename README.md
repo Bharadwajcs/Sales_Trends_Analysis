@@ -1,25 +1,41 @@
-📊 Sales Data Analysis
 
-Exploring 51k+ sales records with Python to uncover patterns in sales, profit, discounts, and shipping. Includes visualizations and a simple Linear Regression model for predicting sales trends.
 
-📂 Files
+# 📊 Sales Data Analysis
 
-sales_data.csv → Sales dataset
+Analyze **51k+ sales records** with Python to uncover insights on sales, profit, discounts, and shipping. Includes **Linear Regression** for trend prediction.
 
-task2.ipynb → Notebook with analysis, visuals & regression
+---
 
-⚙️ Tools
+## 📂 Project Files
 
-🐍 Python • 🗃️ pandas • 📊 matplotlib • 🎨 seaborn • 🤖 scikit-learn • 📒 Jupyter Notebook
+* `sales_data.csv` → Sales dataset
+* `task2.ipynb` → Jupyter Notebook with analysis, visuals & regression
 
-🔍 Highlights
+---
 
-Data cleaning & preprocessing
+## ⚙️ Tech Stack
 
-Sales, profit & discount analysis
+* Python 🐍
+* pandas & numpy 🗃️
+* matplotlib & seaborn 📊
+* scikit-learn 🤖
+* Jupyter Notebook 📒
 
-Visual trends by region, category & customer
+---
 
-📈 Linear Regression for sales prediction
+## 🔍 Key Features
 
-✨ Quick Insights: Discover top-performing categories, see how discounts impact profit, and predict sales with machine learning.
+* Data cleaning & preparation
+* Sales, profit & discount analysis
+* Visual insights by region, category & customer
+* 📈 Linear Regression model for prediction
+
+---
+
+## ✨ Insights
+
+* Which categories and regions drive the most sales
+* How discounts affect profitability
+* Predictive trends using regression
+
+---
